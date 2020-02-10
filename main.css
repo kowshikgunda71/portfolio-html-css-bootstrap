@@ -540,8 +540,22 @@ margin: 2rem 0;
     }
     .portfolio-img{
         margin: 0 0 2rem 0;
+        order: 1;
     }
-    .portfolio-description
+    .portfolio-description{
+        margin: 0;
+        order: 2;
+    }
+    .timeline p{
+        font-size: 1.6rem;
+    }
+    .timeline .date::before{
+        font-size: 1.4rem;
+
+    }
+    .up{
+        right: 2rem;
+    }
 }
 
 /*End media queries*/
