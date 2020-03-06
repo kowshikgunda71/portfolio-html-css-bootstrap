@@ -5,6 +5,7 @@
     box-sizing: border-box;
 
 }
+
 html{
     font-size: 10px;
     font-family: 'Roboto',sans-serif;
@@ -359,7 +360,7 @@ margin: 1rem 0;
     text-transform: uppercase;
     font-weight: 300;
     margin-bottom: 1rem;
-    opacity: .3;
+    opacity: .6;
 }
 .timeline .date{
     border-bottom: 1px solid rgba(225, 255, 225, 0.1);
